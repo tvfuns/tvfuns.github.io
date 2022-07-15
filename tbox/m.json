@@ -10,7 +10,7 @@
 {"key":"csp_Auete"         ,"name":"🐞Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv"        ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kmys"          ,"name":"🐞酷猫影视","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Buka"          ,"name":"🐞真不卡📵","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
+//07151254{"key":"csp_Buka"          ,"name":"🐞真不卡📵","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan"        ,"name":"🐞低端影视📵","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DY1990"        ,"name":"🐞九零影视📵","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Zxzj"          ,"name":"🐞在线之家📵","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
@@ -509,7 +509,7 @@
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uYmlsbm4uY24vYXBpL3YzL2ZpbGUvc291cmNlanVtcC9RQlBuOXh0Yi90a2NDTzFkSnFXUWlZTWY3NXVDdTlUQU9ibHlISzNUbDd1WVQxNFo2TnRBKg=="
 ]}]}],
 //mytx.txt https://pan.bilnn.cn/api/v3/file/sourcejump/QBPn9xtb/tkcCO1dJqWQiYMf75uCu9TAOblyHK3Tl7uYT14Z6NtA*
-"spider":"https://pan.bilnn.cn/api/v3/file/sourcejump/16MzaWSw/d-KBxE7voC9s7ULc_Ce5tF3-u75Uk0g96Qkg4KwJuaw*",
+"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/8514XocW/lhOK0pJhFA4pkkQxTpZXL1nGmQzetrDur4GgX1SjNdI*",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
