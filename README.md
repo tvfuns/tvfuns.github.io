@@ -1,3 +1,1 @@
-# impish0.github.io
-tbox without proxy
-tbox tvbox源
+https://impish0.github.io/tbox/m.json
